@@ -1,0 +1,7 @@
+.list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three columns with equal width */
+  grid-gap: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
